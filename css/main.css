@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0;
+	padding:0;
+	font-size:16px;
+	color:black;
+}
+#container{	
+	width:80%;
+	min-height:700px;
+	margin:0 auto;
+	padding:5px 20px;
+	background-color:lightgoldenrodyellow;
+}
+h1{
+	text-align:center;
+	font-family:方正姚体,黑体,宋体;
+	font-size:20px;
+	font-weight:bold;
+	color:cadetblue;
+}
+h2{
+	font-family:黑体;
+	font-size:20px;
+	font-weight:normal;
+	color:#099;
+}
+p{
+	line-height:2em;	
+}
+.nav{
+	background-color:slategrey;
+	margin-left:15%;
+	margin-right:15%;
+	text-align:center;
+	font-size:18px;
+}
+#triangle{
+	width:0;
+	height:0;
+	border:10px solid transparent;
+	border-top-color:#CCC;
+	border-bottom:0;
+}
+.copyright{
+	text-align:center;
+	margin-bottom:10px;
+}
